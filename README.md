@@ -50,4 +50,4 @@ If all went well, you should be able to click on ‘Run CSV In Gource’. That w
 5. Copyleft Info
 ================
 Created by Brian Evans, with helpful input from Matthew Smithson and Andrew Kaplan 09/23/16
-GNU GPL-3 Copyleft. Basically: you are free to sue and modify this software on the condition that the result is also freely useable by others and that attribution of the original developers is given.
+ GNU GPL-3 Copyleft. Basically: you are free to sue and modify this software on the condition that the result is also freely useable by others and that attribution of the original developers is given.
