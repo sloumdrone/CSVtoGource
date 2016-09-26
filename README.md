@@ -18,10 +18,10 @@ into a format readable by the Gource 3D Visualization application.
 ---------------
 2. Requirements
 ===============
-A. Python 2.x.x
-B. Gource
-C. SQL Server Management Studio
-D. Access to IFP2 and SG2 Load History
+- Python 2.x.x
+- Gource
+- SQL Server Management Studio
+- Access to IFP2 and SG2 Load History
 
 -----------------------
 3. Using CSV for Gource
